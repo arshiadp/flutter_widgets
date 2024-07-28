@@ -1,5 +1,4 @@
-# basic_madan
-
+# flutter widgets
 A new Flutter project.
 
 ## Getting Started
